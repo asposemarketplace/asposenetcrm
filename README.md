@@ -1,7 +1,7 @@
 # Aspose .NET For Dynamics CRM
-* [[Aspose .NET Document Generator]]
-* [[Aspose .NET Document Merger]]
-* [[Aspose .NET AutoMerge]]
+* [Aspose .NET Document Generator](https://github.com/asposemarketplace/asposenetcrm/wiki/Aspose-.NET-Document-Generator)
+* [Aspose .NET Document Merger](https://github.com/asposemarketplace/asposenetcrm/wiki/Aspose-.NET-Document-Merger)
+* [Aspose .NET AutoMerge](https://github.com/asposemarketplace/asposenetcrm/wiki/Aspose-.NET-AutoMerge)
 
 ## Supported Platforms
 * Microsoft Dynamics CRM 2011
