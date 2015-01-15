@@ -1,8 +1,0 @@
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\bin\Debug\Aspose.DocumentGenerator.CreateDocumentFromTemplate.dll
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\bin\Debug\Aspose.DocumentGenerator.CreateDocumentFromTemplate.pdb
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\bin\Debug\Aspose.Words.dll
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\bin\Debug\Microsoft.Xrm.Sdk.dll
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\obj\Debug\Aspose.DocumentGenerator.CreateDocumentFromTemplate.csprojResolveAssemblyReference.cache
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\obj\Debug\Aspose.DocumentGenerator.CreateDocumentFromTemplate.dll
-E:\Aspose\Aspose Projects\DocumentGenerator\aspose.documentgenerator.createdocumentfromtemplate\obj\Debug\Aspose.DocumentGenerator.CreateDocumentFromTemplate.pdb

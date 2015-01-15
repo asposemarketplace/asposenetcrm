@@ -1,8 +1,0 @@
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\bin\Debug\Aspose.DocumentMerger.MergeDocumentsInEntity.dll
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\bin\Debug\Aspose.DocumentMerger.MergeDocumentsInEntity.pdb
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\bin\Debug\Aspose.Words.dll
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\bin\Debug\Microsoft.Xrm.Sdk.dll
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\obj\Debug\Aspose.DocumentMerger.MergeDocumentsInEntity.csprojResolveAssemblyReference.cache
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\obj\Debug\Aspose.DocumentMerger.MergeDocumentsInEntity.dll
-E:\Aspose\Aspose Projects\Document Merger\aspose.documentmerger.mergedocumentsinentity\obj\Debug\Aspose.DocumentMerger.MergeDocumentsInEntity.pdb
